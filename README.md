@@ -163,7 +163,7 @@ console.log(response.message.content);
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT clone with multi-provider support
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) - Modern chat framework with plugin ecosystem ([docs](https://lobehub.com/docs/self-hosting/examples/ollama))
 - [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-platform ChatGPT UI ([docs](https://docs.nextchat.dev/models/ollama))
-- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine, open-source Perplexity alternative
+- [Vane](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine, open-source Perplexity alternative
 - [big-AGI](https://github.com/enricoros/big-AGI) - AI suite for professionals
 - [Lollms WebUI](https://github.com/ParisNeo/lollms-webui) - Multi-model web interface
 - [ChatOllama](https://github.com/sugarforever/chat-ollama) - Chatbot with knowledge bases
